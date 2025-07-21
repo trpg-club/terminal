@@ -1,5 +1,5 @@
 let storyArray = ['PTIKK42SQG', 'HS44APEBS8', 'APRVL69UB3', '7GF2M2XM2L', '36EF11SSOC', 'UC752H9W22', 'EM5NM91GA6'];
-let playerchr=['烏爾里克','伊森','溫水','NASA']
+let playerchr=['捧雪紅','金仙虎','霖鷹']
 
 function pageScroll() {
     window.scrollBy(0,1);
